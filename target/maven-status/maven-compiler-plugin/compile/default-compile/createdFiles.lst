@@ -1,7 +1,0 @@
-model\Bought.class
-model\Artist.class
-JavaMongo.class
-utility\FileUtility.class
-model\ArtWork.class
-model\State.class
-model\Customer.class
